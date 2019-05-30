@@ -1,0 +1,11 @@
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\bin\Debug\Lab3Gauss.exe.config
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\bin\Debug\Lab3Gauss.exe
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\bin\Debug\Lab3Gauss.pdb
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\bin\Debug\ZedGraph.dll
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.csprojResolveAssemblyReference.cache
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.Form1.resources
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.Properties.Resources.resources
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.csproj.GenerateResource.Cache
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.csproj.CoreCompileInputs.cache
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.exe
+c:\users\forgl\source\repos\Lab3Gauss\Lab3Gauss\obj\Debug\Lab3Gauss.pdb
